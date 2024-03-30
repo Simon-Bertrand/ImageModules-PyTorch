@@ -1,0 +1,15 @@
+[submodule "torch_crosscorr"]
+	path = torch_crosscorr
+	url = git@github.com:Simon-Bertrand/FastCrossCorr-PyTorch.git
+[submodule "torch_hog"]
+	path = torch_hog
+	url = git@github.com:Simon-Bertrand/HOG-PyTorch.git
+[submodule "torch_mi"]
+	path = torch_mi
+	url = git@github.com:Simon-Bertrand/MutualInformation-PyTorch.git
+[submodule "torch_phasecong"]
+	path = torch_phasecong
+	url = git@github.com:Simon-Bertrand/2DPhaseCongruency-PyTorch.git
+[submodule "torch_hilbert"]
+	path = torch_hilbert
+	url = git@github.com:Simon-Bertrand/2DHilbertTransformations-PyTorch.git
