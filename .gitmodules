@@ -13,3 +13,7 @@
 [submodule "torch_hilbert"]
 	path = torch_hilbert
 	url = git@github.com:Simon-Bertrand/2DHilbertTransformations-PyTorch.git
+[submodule "torch_cmif"]
+	path = torch_cmif
+	url = git@github.com:Simon-Bertrand/FastCMIF-PyTorch.git
+	branch = main
